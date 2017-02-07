@@ -4,6 +4,19 @@ Space War is a classic space shooter game with fighter plane. Player has to cont
 Space War is the very first project of my entire programming career. It was developed as the final project for Software Development
 Lab 1 in the first year second semester in university. TurboC compiler and C language was used.
 
+````
+Year coded: 2012
+Semester : 1st year 2nd semester
+Course: Software Development Lab 1
+````
+
+#### Technologies Used
+
+- C
+- Turb C++ & its graphics library
+- C Structures
+- C Pointers
+
 #### Features
 - Keyboard movement control for the plane.
 - Simple enemey plane movement.
